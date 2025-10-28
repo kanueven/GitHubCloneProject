@@ -1,0 +1,24 @@
+[33mcommit 0032c9ec9a8d677e9b79b6eaa1c9a8f2a60fb64e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: a2b72a5 8df85bd
+Author: Ray Gathoni <rachaelgathnonin@gmail.com>
+Date:   Wed Oct 29 02:50:10 2025 +0300
+
+    Modify README in main branch
+
+[33mcommit a2b72a59cdaf56e8f7fdc5930bc5fab1cf1debef[m
+Author: Ray Gathoni <rachaelgathnonin@gmail.com>
+Date:   Wed Oct 29 02:44:56 2025 +0300
+
+    Modify README in main branch
+
+[33mcommit 8df85bd430d99463e877a618fed9a990a7bba48a[m[33m ([m[1;32mfeature-greeting[m[33m)[m
+Author: Ray Gathoni <rachaelgathnonin@gmail.com>
+Date:   Wed Oct 29 02:43:20 2025 +0300
+
+    Add feature description
+
+[33mcommit 6e6d2a19a41c4660ce3b901c0c5e7ed37107a09e[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Ray Gathoni <rachaelgathnonin@gmail.com>
+Date:   Wed Oct 29 02:40:25 2025 +0300
+
+    Initial commit with greetings.txt and README.md
